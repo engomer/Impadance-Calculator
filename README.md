@@ -4,3 +4,6 @@
 # -Voltage-Current plotting
 
 # On given R, L, C values and frequency on slider.
+
+Program View
+![Image](/image.png)
